@@ -1,0 +1,3 @@
+id,filename,model,textmodel
+Mnist_All,"/static/mnist.json","/static/dd3.csv","/static/model_IRIS.txt"
+VTMnist,"/static/VTmnist.json","/static/dd3.csv","/static/model_IRIS.txt"
